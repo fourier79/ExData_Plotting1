@@ -1,9 +1,9 @@
-# Plot4
+# Project 1 Plot4
 
 # Read the table
 df = read.table("household_power_consumption.txt", sep=";", header = T)
 
-# subset the data with the given dates
+# subset the data with the given dates 
 df$Date <- as.Date(df$Date, "%d/%m/%Y")
 date1 = as.Date("2007-02-01","%Y-%m-%d") 
 date2 = as.Date("2007-02-02","%Y-%m-%d") 

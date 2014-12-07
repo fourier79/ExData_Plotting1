@@ -1,4 +1,4 @@
-# Plot3
+# Project 1 Plot3
 
 # Read the table
 df = read.table("household_power_consumption.txt", sep=";", header = T)
