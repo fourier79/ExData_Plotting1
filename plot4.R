@@ -1,4 +1,3 @@
-# Project 1
 # Plot4
 
 # Read the table
